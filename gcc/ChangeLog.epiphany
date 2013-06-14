@@ -1,3 +1,7 @@
+2013-06-14  Joern Rennecke  <joern.rennecke@embecosm.com>
+
+        * config/epiphany/epiphany.h (ASM_OUTPUT_SYMBOL_REF): Define.
+
 2013-03-26  Joern Rennecke <joern.rennecke@embecosm.com>
 
 	* config/epiphany/epiphany.md (addsi3_i) <r/r/CnL>: Add '#' to
